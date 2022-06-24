@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "228802643658",
+    "project_id": "awesome-notifiction",
+    "storage_bucket": "awesome-notifiction.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228802643658:android:8964a08120fe1c64d19633",
+        "android_client_info": {
+          "package_name": "com.example.awesomenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228802643658-fiehukr1r6hgps57dhcmk1ikb7i3ddll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnQo5Fk5a4pD05ye6_haIYq3l1V6RG5a0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228802643658-fiehukr1r6hgps57dhcmk1ikb7i3ddll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
